@@ -1,0 +1,6 @@
+---
+- hosts: powerdns
+
+
+  roles:
+    - pdns-ansible
